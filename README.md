@@ -1,1 +1,1 @@
-# Module-12-Challenge-Belly-Button-Biodiversity
+# Module-12-Belly-Button-Biodiversity
