@@ -7,5 +7,5 @@ This project supports a biological research focused on discovering bacteria spic
 
 The supplied sample file is processed to enable a visual dashboard capable to dinamycally display charts and information for a selected person. The dashboard has been publish on the following github page for public access:
 
-https://mejikano.github.io/Module-12-Challenge-Belly-Button-Biodiversity/index.html
+https://mejikano.github.io/Module-12-Challenge-Belly-Button-Biodiversity/
 
